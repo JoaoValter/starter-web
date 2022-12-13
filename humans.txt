@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joao Valter		joao_valter@hotmail.com		JoaoValter
 
 # THANKS
 
